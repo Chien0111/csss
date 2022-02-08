@@ -1,0 +1,27 @@
+th{
+    color: orangered;
+    background: violet;
+    font-size: 30px;
+    test transform: ;
+     font-style:italic ;
+     text-decoration: underline black dotted;
+}
+
+.red{
+    color: orangered;
+    font-weight: 900;
+}
+.blue{ color: royalblue;}
+#test{
+    color: steelblue !important;
+}
+#pick{
+    color: pink;
+}
+*{
+    color: powderblue !important;
+}
+body{
+   background: yellow;
+    font-family: Arial, Helvetica, sans-serif ;
+}
